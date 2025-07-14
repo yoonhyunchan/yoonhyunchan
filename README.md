@@ -23,12 +23,12 @@ I'm a student studying about Cloud & Devops
 🌱 I’m currently learning
 <!-- 🌱 I want to be myself who does my best. -->
 ### 📞 contact & channel
-<!-- <p>
-  <a href="mailto:7471919@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="mailto:jhs101603@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hansu-jeong-49b76221a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> </a>
-  <a href="https://suloth.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-</p> -->
+<p>
+  <!-- <a href="mailto:7471919@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> -->
+  <a href="mailto:chanandy5372@gmail.com"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/gmail-auto.svg" width=60/></a>
+  <!-- <a href="https://www.linkedin.com/in/hansu-jeong-49b76221a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> </a> -->
+  <!-- <a href="https://suloth.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
+</p>
   
 ### 📚 Tech stack 
 <p>
