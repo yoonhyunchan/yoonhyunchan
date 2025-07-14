@@ -32,7 +32,7 @@ I'm a student studying about Cloud & Devops
   
 ### 📚 Tech stack 
 <p>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kubernetes.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kubernetes.svg" width="60"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
