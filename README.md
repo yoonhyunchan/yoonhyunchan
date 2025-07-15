@@ -33,10 +33,8 @@ I'm a student studying about Cloud & Devops
   
 ### 📚 Tech stack 
 <p>
-
   <img src="logos/aws-auto.svg" width="40"/>
   <img src="logos/azure-auto.svg" width="40"/>
-  <div width="40" height="40"></div>
   <br>
   <img src="logos/kubernetes.svg" width="40"/>
   <img src="logos/docker.svg" width="40"/>
