@@ -25,14 +25,8 @@ I'm a student studying about Cloud & Devops
 <!-- 🌱 I want to be myself who does my best. -->
 ### 📞 contact & channel
 <p>
-  <table>
-    <tr>
-      <td style="width:256px;">
-        <a href="mailto:chanandy5372@gmail.com"><img src="logos/gmail-auto.svg" width=40/></a>
-        <a href="https://mon-roman.tistory.com/"><img src="logos/tistory-auto.svg" width=40/></a>
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:chanandy5372@gmail.com"><img src="logos/gmail-auto.svg" width=40/></a>
+  <a href="https://mon-roman.tistory.com/"><img src="logos/tistory-auto.svg" width=40/></a>
 </p>
 
 
@@ -42,6 +36,7 @@ I'm a student studying about Cloud & Devops
 
   <img src="logos/aws-auto.svg" width="40"/>
   <img src="logos/azure-auto.svg" width="40"/>
+  <div width="40" height="40"></div>
   <br>
   <img src="logos/kubernetes.svg" width="40"/>
   <img src="logos/docker.svg" width="40"/>
@@ -78,12 +73,14 @@ I'm a student studying about Cloud & Devops
 </p>
 
 ### 🏅 Certifications
+<div>
 <img src="logos/aws-auto.svg" width="20" style="vertical-align:bottom;"/>
 <b>AWS Certified Solutions Architect - Associate</b>
-<br>
+</div>
+<div>
 <img src="logos/azure-auto.svg" width="20" style="vertical-align:bottom;"/>
 <b>Microsoft Certified: Azure AI Fundamentals</b>
----
+</div>
 
 
 
