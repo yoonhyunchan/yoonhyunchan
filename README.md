@@ -39,33 +39,8 @@ I'm a student studying about Cloud & Devops
   
 ### 📚 Tech stack 
 <p>
-  <table>
-    <tr>
-      <td style="width:256px;">
-        <img src="logos/aws-auto.svg" width="40"/>
-        <img src="logos/azure-auto.svg" width="40"/>
-      </td>
-      <td style="width:256px;">
-        <img src="logos/kubernetes.svg" width="40"/>
-        <img src="logos/docker.svg" width="40"/>
-        <img src="logos/linux-auto.svg" width="40"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:256px; border: none;">
-        <img src="logos/git-auto.svg" width="40"/>
-        <img src="logos/gitlab-auto.svg" width="40"/>
-        <img src="logos/jenkins-auto.svg" width="40"/>
-        <img src="logos/harbor-auto.svg" width="40"/>
-        <img src="logos/argocd-auto.svg" width="40"/>
-      </td>
-      <td style="width:256px; border: none;">
-        <img src="logos/python-auto.svg" width="40"/>
-      </td>
-    </tr>
-  </table>
 
-  <!-- <img src="logos/aws-auto.svg" width="40"/>
+  <img src="logos/aws-auto.svg" width="40"/>
   <img src="logos/azure-auto.svg" width="40"/>
   <br>
   <img src="logos/kubernetes.svg" width="40"/>
@@ -78,34 +53,12 @@ I'm a student studying about Cloud & Devops
   <img src="logos/harbor-auto.svg" width="40"/>
   <img src="logos/argocd-auto.svg" width="40"/>
   <br>
-  <img src="logos/python-auto.svg" width="40"/> -->
+  <img src="logos/python-auto.svg" width="40"/>
 </p>
 
 ### 📘 Tech I've used at least once 
 <p>
-  <table>
-  <tr>
-    <td style="width:256px;">
-      <img src="logos/java-auto.svg" width="40"/>
-      <img src="logos/c.svg" width="40"/>
-    </td>
-    <td style="width:256px;">
-      <img src="logos/postgresql-auto.svg" width="40"/>
-  <img src="logos/mysql-auto.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:256px; border: none;">
-      <img src="logos/openstack-auto.svg" width="40"/>
-    </td>
-    <td style="width:256px; border: none;">
-      <img src="logos/langchain-auto.svg" width="40"/>
-      <img src="logos/fastapi.svg" width="40"/>
-      <img src="logos/flutter-auto.svg" width="40"/>
-    </td>
-  </tr>
-</table>
-  <!-- <br>
+  <br>
   <img src="logos/java-auto.svg" width="40"/>
   <img src="logos/c.svg" width="40"/>
   <br>
@@ -115,7 +68,7 @@ I'm a student studying about Cloud & Devops
   <img src="logos/openstack-auto.svg" width="40"/>
   <img src="logos/langchain-auto.svg" width="40"/>
   <img src="logos/fastapi.svg" width="40"/>
-  <img src="logos/flutter-auto.svg" width="40"/> -->
+  <img src="logos/flutter-auto.svg" width="40"/>
 </p>
 
 ### 🎸 Now Interest 
