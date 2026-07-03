@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ⭐️ Hi, there! I'm Hyunchan Yoon :)<br>
-I'm a student studying about Cloud & Devops
+I'm a Cloud Engineer
 
 <!-- 🌱 I’m currently learning -->
 <!-- 🌱 I want to be myself who does my best. -->
